@@ -1,3 +1,7 @@
+// to start:
+// npm install
+// npm start
+
 import "dotenv/config";
 import express from "express";
 
