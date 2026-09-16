@@ -10,7 +10,7 @@ const app = express();
 const port = process.env.PORT || 8080;
 
 const notes = [
-  { id: 1, text: "Buy milk" },
+  { id: 1, text: "Buy one hundred milk" },
   { id: 2, text: "Finish the deployment tutorial" },
   { id: 3, text: "Water the plants" },
 ];
